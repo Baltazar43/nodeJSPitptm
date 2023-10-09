@@ -1,0 +1,3 @@
+C:\Users\Kab26\source\repos\PITPMnodejs\PITPMnodejs\obj\Debug\PITPMnodejs.njsproj.AssemblyReference.cache
+C:\Users\Kab26\source\repos\PITPMnodejs\PITPMnodejs\obj\Debug\PITPMnodejs.njsproj.CoreCompileInputs.cache
+C:\Users\Kab26\source\repos\PITPMnodejs\PITPMnodejs\bin\Microsoft.NodejsTools.WebRole.dll
